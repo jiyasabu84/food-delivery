@@ -1,0 +1,6 @@
+{
+  "name": "Culinary Harmony",
+  "description": "A warm premium food delivery and dish discovery experience designed around high-end fresh food photography and serene minimal aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
